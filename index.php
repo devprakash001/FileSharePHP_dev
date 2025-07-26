@@ -106,7 +106,7 @@
     <!-- Footer -->
     <footer class="bg-gray-800 dark:bg-gray-900 text-white py-8">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <p>&copy; 2024 FileShare. All rights reserved. Built and maintained by Dev Prakash Singh</p>
+            <p>&copy; 2025 FileShare. All rights reserved. Built and maintained by Dev Prakash Singh</p>
         </div>
     </footer>
 
