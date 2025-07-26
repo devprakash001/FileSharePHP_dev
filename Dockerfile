@@ -18,6 +18,11 @@ RUN mkdir -p /var/www/html/uploads \
     && chown -R www-data:www-data /var/www/html/uploads \
     && chmod -R 755 /var/www/html/uploads
 
+# Set permissions for data.json so it is writable by www-data
+RUN touch /var/www/html/data.json \
+    && chown www-data:www-data /var/www/html/data.json \
+    && chmod 664 /var/www/html/data.json
+
 # Expose port 80
 EXPOSE 80
 
