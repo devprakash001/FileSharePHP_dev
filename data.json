@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "fullname": "Dev Prakash Singh",
+            "email": "dev@gmail.com",
+            "password": "$2y$10$V6hRfH\/gvCztQsXZyEyITurxZ40q0jMCLb.AZ3UJJomVPXET\/on7G"
+        },
+        {
+            "fullname": "Admin",
+            "email": "admin@gmail.com",
+            "password": "$2y$10$zM487kVQpMcyy05C9sKr6uodP3xIb2Eo1GjMhkcwmxYh4tBBBr24i"
+        }
+    ],
+    "contacts": [
+        {
+            "name": "Dev Prakash Singh",
+            "email": "devsingh98011@gmail.com",
+            "message": "Hello",
+            "date": "2025-07-26 09:32:58"
+        }
+    ],
+    "files": [
+        {
+            "original_name": "Resume.pdf",
+            "stored_name": "6884859c5e07c.pdf",
+            "size": 234977,
+            "upload_date": "2025-07-26 09:37:00",
+            "uploaded_by": "Dev Prakash Singh",
+            "path": "uploads\/6884859c5e07c.pdf"
+        }
+    ]
+}
