@@ -130,25 +130,25 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <svg class="w-6 h-6 text-blue-600 dark:text-blue-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
                             </svg>
-                            <span class="text-gray-600 dark:text-gray-400">support@fileshare.com</span>
+                            <span class="text-gray-600 dark:text-gray-400">devsingh98011@gmail.com</span>
                         </div>
                         <div class="flex items-center">
                             <svg class="w-6 h-6 text-blue-600 dark:text-blue-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
                             </svg>
-                            <span class="text-gray-600 dark:text-gray-400">+1 (555) 123-4567</span>
+                            <span class="text-gray-600 dark:text-gray-400">+91 98380 11971</span>
                         </div>
                         <div class="flex items-center">
                             <svg class="w-6 h-6 text-blue-600 dark:text-blue-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
                             </svg>
-                            <span class="text-gray-600 dark:text-gray-400">123 Tech Street, Digital City, DC 12345</span>
+                            <span class="text-gray-600 dark:text-gray-400">Lucknow, Uttar Pradesh, India, 226021</span>
                         </div>
                     </div>
                 </div>
 
-                <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-8">
+                <!-- <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-8">
                     <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4">Office Hours</h3>
                     <div class="space-y-2 text-gray-600 dark:text-gray-400">
                         <div class="flex justify-between">
@@ -164,12 +164,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <span>Closed</span>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg p-8 text-white">
                     <h3 class="text-xl font-bold mb-4">Need immediate help?</h3>
                     <p class="mb-4">Check out our comprehensive FAQ section or browse our knowledge base for quick answers to common questions.</p>
-                    <a href="#" class="inline-block bg-white text-blue-600 hover:bg-gray-100 px-4 py-2 rounded-lg font-medium transition-colors">
+                    <a href="https://devprakash001.github.io/Portfolio/" class="inline-block bg-white text-blue-600 hover:bg-gray-100 px-4 py-2 rounded-lg font-medium transition-colors">
                         Visit Help Center
                     </a>
                 </div>

@@ -120,7 +120,7 @@
                         </svg>
                     </div>
                     <h3 class="text-xl font-semibold mb-2">Backend</h3>
-                    <p class="text-gray-600 dark:text-gray-400">PHP 8.0+, MySQL, Apache/Nginx</p>
+                    <p class="text-gray-600 dark:text-gray-400">PHP 8.0+, Apache/Nginx</p>
                 </div>
                 <div class="text-center">
                     <div class="w-16 h-16 bg-purple-100 dark:bg-purple-900 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -141,7 +141,7 @@
                 <div class="w-24 h-24 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">
                     <span class="text-2xl font-bold text-white">JD</span>
                 </div>
-                <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">John Developer</h3>
+                <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">Dev Prakash Singh</h3>
                 <p class="text-gray-600 dark:text-gray-400 mb-4">Full Stack Developer</p>
                 <p class="text-sm text-gray-500 dark:text-gray-400">
                     Passionate about creating secure and user-friendly web applications. 
